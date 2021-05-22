@@ -1,1 +1,2 @@
 Pierwszy wpis
+Zmiana w gałęzi master
